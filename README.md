@@ -1,6 +1,6 @@
 # BurgerChomp
-## It's time to CHOMP them burgers!
-This is a delicious example of a full-stack web app. The meaty goodness is made of 100% USDA Choice Node.js on a MySQL bun. The toppings include juicy handlebars.js.
+### It's time to CHOMP them burgers!
+This is a delicious example of a full-stack web app utilizing farm fresh CRUD. The meaty goodness is made of 100% USDA Choice Node.js on a MySQL bun. The toppings include juicy handlebars.js.
 ### Installation
 If you wish to clone/download this app you will need to have Node already installed on your machine as well as an available MySQL server. 
 1. Populate your database with the provided schema/seed files (database install/configuration details are outside the scope of this README)
